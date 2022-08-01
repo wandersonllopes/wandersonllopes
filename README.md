@@ -4,6 +4,7 @@
 ![CACHICOL](https://user-images.githubusercontent.com/24611884/182192092-703f4de8-8301-434a-aec3-846ab48b4120.jpg)
 
 Olá, sou Wanderson Lopes um Data Scientist em construção.
+
 São Paulo 📌
 
 ## Meus hobbies
