@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, sou Wanderson Lopes um Data Scientist em eterna construção.
+Olá, sou Wanderson Lopes um Data Scientist em construção.
 
 ## Meus hobbies
 
